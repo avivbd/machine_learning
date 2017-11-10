@@ -1,2 +1,2 @@
 # machine_learning
-Implementations of various ML algorithms for learning purposes. 
+My own implementations of various ML algorithms for learning purposes. 
